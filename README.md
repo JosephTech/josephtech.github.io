@@ -1,4 +1,2 @@
-# JosephTech.github.io
-# JosephTech.github.io
-Hello!
-Welcome to my first website. 
+#To do
+1. Make dark and light theme.
